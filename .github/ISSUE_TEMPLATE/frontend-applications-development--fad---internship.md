@@ -1,7 +1,7 @@
 ---
 name: Frontend Applications Development (FAD)- Internship
-about: 'Apply for our Internship '
-title: ''
+about: 'Apply for our Frontend Internship '
+title: 'Frontend Development Application- Proceedit'
 labels: Internship
 assignees: ''
 
