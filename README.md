@@ -1,2 +1,2 @@
-# Proceedit-Jobs
-Job opennings at Proceedit
+# Proceedit-Internships
+Internships openning at Proceedit
